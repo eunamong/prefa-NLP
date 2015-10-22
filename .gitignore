@@ -1,0 +1,13 @@
+# mecab bin
+mecab-*
+.metadata
+.recommenders
+
+.project
+.settings
+.classpath
+
+# binary file
+bin/
+
+
